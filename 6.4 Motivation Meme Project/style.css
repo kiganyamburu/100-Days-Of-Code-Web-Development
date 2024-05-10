@@ -4,8 +4,24 @@ body {
 div {
     width:50%;
     margin-left: 25%;
+    margin-top:5%;
 }
 
 img {
-border-width: 5px white;
+border-width: 5px;
+border-style: solid;
+border-color: white;
+width: 100%;
+
+
+}
+
+p{
+    color: white;
+    margin-left: 130px;
+}
+h1{
+    color:white;
+    margin-left: 150px;
+    text-transform: capitalize;
 }
