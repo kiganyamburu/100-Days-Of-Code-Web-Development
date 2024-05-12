@@ -1,7 +1,18 @@
-.flag div p{
-    background-color:blue;
-    height: 200px;
-    width: 200px;
-    border-radius: 50%;
+
+.flag{
+    background-color:brown;
+    height: 900px;
+    width: 900px;
+    border: 10px;
+    margin: 10px;
+}
+
+
+.flag > div{
+    background-color: blue;
+    height: 300px;
 
 }
+/*
+https://www.youtube.com/watch?v=YrU98E8nHjo&ab_channel=Rammor 
+ */
