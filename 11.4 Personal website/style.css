@@ -46,17 +46,21 @@ p {
 
 .my-pic {
   margin-top: 50px;
-  justify-items: right;
-  display: flex;
   align-items: center;
   padding-top: 50px;
+  margin-right: 200px;
+  padding-left: 350px;
 }
 
 .into-duction {
   margin-top: 20px;
   width: 50%;
   text-align: center;
-  justify-content: right;
-  display: flex;
-  align-items: center;
+  margin-left: 200px;
+}
+
+h2 {
+  color: #2c3e50;
+  font-size: 1.5em;
+  text-align: center;
 }
