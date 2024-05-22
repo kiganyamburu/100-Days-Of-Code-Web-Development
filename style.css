@@ -2,4 +2,14 @@ body {
   margin: 0;
   padding: 0;
   background-color: #e8f8f5;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  justify-content: right;
 }
