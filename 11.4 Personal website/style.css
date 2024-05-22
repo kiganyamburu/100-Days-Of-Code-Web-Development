@@ -34,12 +34,29 @@ p {
   padding: 0;
 }
 .big-mountain {
-  width: 100px;
-  height: 100px;
+  width: 400px;
+  height: 400px;
   /* position: absolute; */
   top: 0;
   left: 0;
   z-index: -1;
   align-items: center;
   justify-content: center;
+}
+
+.my-pic {
+  margin-top: 50px;
+  justify-items: right;
+  display: flex;
+  align-items: center;
+  padding-top: 50px;
+}
+
+.into-duction {
+  margin-top: 20px;
+  width: 50%;
+  text-align: center;
+  justify-content: right;
+  display: flex;
+  align-items: center;
 }
