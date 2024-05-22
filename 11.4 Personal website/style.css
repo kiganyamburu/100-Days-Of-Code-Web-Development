@@ -3,11 +3,43 @@ body {
   padding: 0;
   background-color: #e8f8f5;
   font-family: Arial, sans-serif;
+}
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: right;
+  height: 100vh;
   position: relative;
 }
 
-img {
-  float: right;
-  margin: 10px;
+.top-cloud {
+  /* justify-items: right; */
   position: absolute;
+}
+
+.bottom-cloud {
+  /* position: absolute; */
+  justify-content: left;
+}
+
+h1 {
+  font-size: 2.5em;
+  color: #2c3e50;
+  margin-top: 100px;
+}
+
+p {
+  color: 7c#bdbe;
+  padding: 0;
+}
+.big-mountain {
+  width: 100px;
+  height: 100px;
+  /* position: absolute; */
+  top: 0;
+  left: 0;
+  z-index: -1;
+  align-items: center;
+  justify-content: center;
 }
