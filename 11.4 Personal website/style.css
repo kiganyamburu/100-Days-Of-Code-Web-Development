@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #e8f8f5;
+  font-family: Arial, sans-serif;
+  position: relative;
+}
+
+img {
+  float: right;
+  margin: 10px;
+  position: absolute;
+}
