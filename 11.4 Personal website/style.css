@@ -79,14 +79,11 @@ button {
   background-color: #7cbdbe;
   color: white;
   padding: 10px 20px;
-  margin-top: 20px;
+  margin: 20px 20px;
   border: none;
   border-radius: 5px;
   cursor: pointer;
-  align-items: center;
-  justify-content: center;
-  height: 50px;
-  width: 150px;
+  font-size: larger;
 }
 /* button hover */
 button:hover {
@@ -99,11 +96,8 @@ h2 {
   text-align: center;
 }
 
-.footer {
+footer {
   background-color: #7cbdbe;
-  height: 100%;
-  width: 100%;
-  text-decoration: none;
 }
 a {
   text-decoration: none;
