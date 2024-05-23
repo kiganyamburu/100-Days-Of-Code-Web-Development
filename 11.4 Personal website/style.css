@@ -64,3 +64,16 @@ h2 {
   font-size: 1.5em;
   text-align: center;
 }
+
+.footer {
+  background-color: #7cbdbe;
+  height: auto;
+  width: auto;
+}
+ul,
+a {
+  /* list-style-type: none; */
+  text-decoration: none;
+  color: black;
+  margin: 20px;
+}
