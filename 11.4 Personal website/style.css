@@ -49,7 +49,7 @@ p {
   align-items: center;
   padding-top: 50px;
   margin-right: 200px;
-  padding-left: 350px;
+  padding-left: 250px;
 }
 
 .into-duction {
@@ -85,6 +85,8 @@ button {
   cursor: pointer;
   align-items: center;
   justify-content: center;
+  height: 50px;
+  width: 150px;
 }
 /* button hover */
 button:hover {
@@ -99,10 +101,11 @@ h2 {
 
 .footer {
   background-color: #7cbdbe;
-  height: auto;
-  width: auto;
+  height: 100%;
+  width: 100%;
+  text-decoration: none;
 }
-ul > a {
+a {
   text-decoration: none;
   margin: 20px;
   color: black;
