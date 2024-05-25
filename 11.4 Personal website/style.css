@@ -39,3 +39,27 @@
   align-items: center;
   margin-bottom: 50px;
 }
+.three {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 150px;
+}
+
+.section-two {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+  background-color: white;
+}
+
+.section-two h1 {
+  color: #66bfbf;
+  font-size: 2.5rem;
+  margin: 50px;
+}
+
+.section-two p {
+  color: black;
+}
