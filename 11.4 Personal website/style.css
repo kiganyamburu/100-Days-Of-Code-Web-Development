@@ -48,6 +48,7 @@
 
 .section-two {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   margin-bottom: 50px;
@@ -62,4 +63,12 @@
 
 .section-two p {
   color: black;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.5rem;
+}
+
+footer {
+  background-color: #66bfbf;
+  height: 50px;
+  width: 50px;
 }
