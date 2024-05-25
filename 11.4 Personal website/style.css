@@ -9,4 +9,13 @@
 
 body {
   display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.img-one {
+  border: 1px;
+  border-style: solid;
+  border-color: blue;
+  height: 100px;
+  width: 100px;
 }
