@@ -1,19 +1,12 @@
-*body {
+* {
   margin: 0;
   padding: 0;
   border: 0;
   box-sizing: border-box;
-  background-color: #e8f8f5;
+  background-color: #e4f9f5;
   font-size: 1rem;
 }
-.main-container {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-}
 
-img {
-  padding-top: 100px;
+body {
+  display: flex;
 }
