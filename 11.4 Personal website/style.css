@@ -7,15 +7,16 @@
   font-size: 1rem;
 }
 
-body {
+.section-one {
   display: flex;
-  align-items: center;
   justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
-.img-one {
-  border: 1px;
-  border-style: solid;
-  border-color: blue;
-  height: 100px;
-  width: 100px;
+
+.title {
+  color: #66bfbf;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
 }
