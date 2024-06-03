@@ -15,6 +15,11 @@
 
 .img-one {
   margin-top: 50px;
+  position: relative;
+}
+.img-one img {
+  position: absolute;
+  right: 0rem;
 }
 
 .title {
