@@ -109,9 +109,10 @@
   height: 100px;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
 }
 
-footer a {
+.footer-link {
   text-decoration: none;
   gap: 10%;
   margin-right: 10px;
@@ -122,4 +123,20 @@ footer a {
   justify-content: center;
   align-items: center;
   margin-top: 50px;
+  flex-direction: column;
+}
+button {
+  background-color: #7cbdbe;
+  border-radius: 10%;
+  padding: 10px 20px;
+  margin: 10px;
+}
+button:hover {
+  background-color: blue;
+}
+
+.my-skills h1 {
+  color: #66bfbf;
+  font-size: 3rem;
+  margin: 20px;
 }
