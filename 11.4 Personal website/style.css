@@ -63,13 +63,15 @@
   align-items: center;
   margin-bottom: 50px;
 }
-/* 
+
 .three {
   display: flex;
   justify-content: center;
   align-items: center;
   margin-bottom: 150px;
-} */
+  margin-top: 100px;
+  margin-right: -35%;
+}
 
 .section-two {
   background-color: white;
@@ -128,6 +130,7 @@
   margin-top: 50px;
   flex-direction: column;
 }
+
 button {
   background-color: #7cbdbe;
   border-radius: 8%;
@@ -136,6 +139,7 @@ button {
   justify-self: center;
   width: 150px;
 }
+
 button:hover {
   background-color: blue;
 }
@@ -147,7 +151,7 @@ button:hover {
   font-weight: normal;
   padding-bottom: 10px;
 }
-.section-three {
+/* .section-three {
   background-color: #e8f8f5;
   width: 100vw;
   height: 100vh;
@@ -155,7 +159,7 @@ button:hover {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-}
+} */
 
 .three h1 {
   color: #66bfbf;
@@ -171,6 +175,7 @@ button:hover {
   color: #66bfbf;
   margin: 10px;
 }
+
 .my-skills img {
   width: 200px;
   height: 200px;
@@ -183,4 +188,8 @@ button:hover {
 
 .five {
   float: left;
+}
+
+.hot-wings {
+  width: 40%;
 }
