@@ -167,19 +167,19 @@ button:hover {
   font-size: 2.5rem;
   font-weight: normal;
   padding-bottom: 10px;
-  margin-top: 50px;
 }
 
 .three h2 {
   font-family: "Montserrat", sans-serif;
   color: #66bfbf;
-  margin: 10px;
+  margin-top: 10px;
 }
 
 .my-skills img {
   width: 200px;
   height: 200px;
   margin: 10px;
+  margin-bottom: 50px;
 }
 
 .four {
