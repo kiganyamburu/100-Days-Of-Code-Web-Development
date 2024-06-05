@@ -114,4 +114,12 @@
 footer a {
   text-decoration: none;
   gap: 10%;
+  margin-right: 10px;
+}
+
+.my-skills {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
 }
