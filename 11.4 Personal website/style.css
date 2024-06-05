@@ -115,8 +115,10 @@
 
 .footer-link {
   text-decoration: none;
-  gap: 10%;
+  /* gap: 10%; */
   margin-right: 10px;
+  margin-bottom: 20px;
+  /* margin-left: 20px; */
 }
 
 .my-skills {
@@ -128,10 +130,11 @@
 }
 button {
   background-color: #7cbdbe;
-  border-radius: 10%;
+  border-radius: 8%;
   padding: 10px 20px;
-  margin: 10px;
+  margin: 50px;
   justify-self: center;
+  width: 150px;
 }
 button:hover {
   background-color: blue;
@@ -172,4 +175,12 @@ button:hover {
   width: 200px;
   height: 200px;
   margin: 10px;
+}
+
+.four {
+  float: left;
+}
+
+.five {
+  float: left;
 }
