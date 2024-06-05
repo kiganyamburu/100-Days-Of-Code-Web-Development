@@ -63,12 +63,13 @@
   align-items: center;
   margin-bottom: 50px;
 }
+/* 
 .three {
   display: flex;
   justify-content: center;
   align-items: center;
   margin-bottom: 150px;
-}
+} */
 
 .section-two {
   background-color: white;
@@ -130,6 +131,7 @@ button {
   border-radius: 10%;
   padding: 10px 20px;
   margin: 10px;
+  justify-self: center;
 }
 button:hover {
   background-color: blue;
@@ -137,6 +139,32 @@ button:hover {
 
 .my-skills h1 {
   color: #66bfbf;
-  font-size: 3rem;
-  margin: 20px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+.section-three {
+  background-color: #e8f8f5;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.three h1 {
+  color: #66bfbf;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+  margin-top: 50px;
+}
+
+.three h2 {
+  font-family: "Montserrat", sans-serif;
+  color: #66bfbf;
+  margin: 10px;
 }
