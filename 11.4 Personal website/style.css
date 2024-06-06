@@ -177,6 +177,9 @@ button:hover {
   color: #66bfbf;
   margin-top: 10px;
 }
+.my-skills p {
+  width: 40%;
+}
 
 .my-skills img {
   width: 200px;
