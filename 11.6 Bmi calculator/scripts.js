@@ -7,7 +7,7 @@ let height = prompt("What is your height in meters?: ");
 function bmiCalculator(kg, height) {
   let bmi = kg / (height * height);
 
-  let answer = alert("your bmi is " + bmi);
+  console.log ("your bmi is " + bmi);
 }
 bmiCalculator(kg, height);
 
